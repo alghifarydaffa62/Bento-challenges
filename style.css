@@ -1,2 +1,47 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+
+.create img {
+    width: 10vw;
+    height: 10vh;
+}
+.social img {
+    width: 12vw;
+    height: 5vh;
+}
+.schedule img {
+    width: 22vw;
+    height: 43vh;
+}
+.manage img {
+    width: 28vw;
+    height: 12vh;
+}
+.maintain img {
+    width: 18vw;
+    height: 6;
+}
+.AI img {
+    width: 15vw;
+    height: 30vh;
+}
+.audience img {
+    width: 15vw;
+    height: 11vh;
+}
+.follower {
+    display: flex;
+    align-items: center;
+}
+.follower img {
+    width: 20vw;
+    height: 32vh;
+}
+.layout {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.create {
+    background-color: aquamarine;
+}
